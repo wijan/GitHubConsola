@@ -1,11 +1,11 @@
 package lletresRepetides;
 import java.util.*;
 public class App {
-
+//Probem conflictes.
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner llegir=new Scanner(System.in);
-		System.out.println("Escriu una frase i el programa contar‡ cuantes"
+		System.out.println("Escriu una frase i el programa contar√† cuantes"
 				+ " de cada una de les lletres hi ha:");
 		String frase=llegir.nextLine();
 		LlistaParaules llista=new LlistaParaules(frase);
