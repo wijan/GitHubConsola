@@ -8,3 +8,4 @@ b->1
 n->1
 d->1
 i->1
+Creant un conflicte desde web.
